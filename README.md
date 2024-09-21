@@ -1,6 +1,8 @@
-## Locality Sensitive Hashing (LSH) for Data Discovery in Data Lake(D3L). This work is inspired from a researh paper "Data Discovery in Data Lakes"
+## Locality Sensitive Hashing (LSH) for Data Discovery in Data Lake(D3L).
 
-This project implements a Python-based Locality Sensitive Hashing (LSH) algorithm designed to efficiently detect similarities between columns in large datasets. LSH is particularly valuable for high-dimensional data where traditional similarity detection methods can be computationally expensive.
+This project implements a Python-based Locality Sensitive Hashing (LSH) algorithm designed to efficiently detect similarities between columns in large datasets. LSH is particularly valuable for high-dimensional data where traditional similarity detection methods can be computationally expensive. 
+
+(This work is inspired from a researh paper "Data Discovery in Data Lakes")
 
 ### Key Features
 
